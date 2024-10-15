@@ -1,15 +1,13 @@
-# Olá, sou a Joice Toledo 👋
+# Seja bem-vindo! ![](https://komarev.com/ghpvc/?username=JoyToledo&abbreviated=true&label=Profile+Views) <br>
 
-Desenvolvedora em Análise e Desenvolvimento de Sistemas com experiência em C#, Windows Forms e desenvolvimento de sistemas ERP. Atualmente estou focado em **Backend com .NET** e estudando **APIs e banco de dados**.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JoyToledo&locale=pt_BR&background=90%2CEBEBEB%2C69A7EB)](https://git.io/streak-stats)
+Desenvolvedora em Análise e Desenvolvimento de Sistemas com experiência em C#, Windows Forms e Análise de Requisitos.
 
 ---
 
 ## 🚀 Sobre Mim
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (3º semestre).
-- 💼 Experiência de 5 anos em atendimento ao cliente.
-- 💻 Participação no desenvolvimento de um sistema de controle de frota, atuando principalmente na análise de requisitos.
+- 💻 Participação no desenvolvimento de um sistema de controle de frota.
 - 💡 Interesse em Backend, API, e ferramentas de nuvem.
 - 📚 Bootcamp em andamento focado em **.NET Backend**.
 
