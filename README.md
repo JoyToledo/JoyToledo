@@ -1,15 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=JoyToledo&abbreviated=true&label=Profile+Views) 
+
 <br>
 
-<div align="center">
-  <a href="https://github.com/JoyToledo">
-    <img align="center" src="welcome.png" width="600">
-  </a>
-</div>
 <br>
-
-
----
 
 # 👩 Sobre Mim
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (3º semestre).
