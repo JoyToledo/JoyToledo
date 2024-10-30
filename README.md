@@ -16,26 +16,11 @@
 <br>
 <br>
 
-# 💼 Projetos
-
-## 🚌 **Sistema de Controle de Frota**
+# 💻 Tecnologias
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-Em fase de desenvolvimento com **C# e Windows Forms**, este sistema está sendo criado para gerenciar frotas de ônibus e vans. O sistema inclui controle de caixa, emissão de notas, manutenção da frota, e controle de clientes.
-
-**Funcionalidades:** Cadastro de clientes, gerenciamento financeiro, controle de manutenção de veículos, relatórios.
-
-**Atuação:** Elaboração de documentação, análise de requisitos e programação fullstack.  
-
-<br>
-
-## 🌐 **[Projeto de Desenvolvimento Web (Em andamento)](https://github.com/JoyToledo/siteEmpresaFicticia?tab=readme-ov-file)**
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Um site em fase de desenvolvimento, utilizando HTML, CSS e JavaScript para criar páginas dinâmicas e responsivas.
-
-**Funcionalidades:** Apresentação da empresa, contato, Login do usuário.
 
 <br>
 <br>
