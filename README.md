@@ -11,7 +11,6 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (3º semestre).
 - 💻 Participação no desenvolvimento de um sistema de controle de frota.
 - 💡 Interesse em FrontEnd, Backend, API, ferramentas de nuvem, Análise de Requisitos.
-- 📚 Bootcamp em andamento **Randstad - Backend com .NET**.
 
 <br>
 <br>
