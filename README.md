@@ -22,11 +22,13 @@
 <br>
 <br>
 
+<!-- 
 ## 🌱 O que estou aprendendo
+APIs com .NET
+Desenvolvimento Backend
+Fundamentos de banco de dados e SQL
+--->
 
-- APIs com .NET
-- Desenvolvimento Backend
-- Fundamentos de banco de dados e SQL
 
 <br>
 <br>
