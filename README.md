@@ -9,8 +9,9 @@
 
 # 👩 Sobre Mim
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (3º semestre).
-- 💻 Participação no desenvolvimento de um sistema de controle de frota.
-- 💡 Interesse em FrontEnd, Backend, API, ferramentas de nuvem, Análise de Requisitos.
+- 💻 Trabalhando como Analista de Testes
+<!-- 💡 Interesse em FrontEnd, Backend, API, ferramentas de nuvem, Análise de Requisitos.--->
+
 
 <br>
 <br>
